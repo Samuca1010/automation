@@ -4,7 +4,7 @@ import time
 
 host = '192.168.73.4'
 user = 'root'
-password = 'stomassoni@C22'
+password = '******'
 PON = "12"
 slotCard = "0/1"
 vlanMGMT = (240, 2)
